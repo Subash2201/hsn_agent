@@ -1,0 +1,5 @@
+adk
+pandas
+openpyxl
+rapidfuzz
+streamlit
